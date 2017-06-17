@@ -48,9 +48,11 @@ The presentation must satisfy the following:
 * It must be hosted on github or Rpubs
 * It must contained some embedded R code that gets run when slidifying the document
 
-**Slidify Presentation:** <>
+**Slidify Presentation:**  
+https://sanjaysomraj.github.io/DevelopingDataProducts_Assignment3/Assignment3Slides/index.html
 
-**Github Repository:** <>
+**Github Repository:**  
+https://github.com/SanjaySomraj/DevelopingDataProducts_Assignment3
 
 ---
 
@@ -58,10 +60,10 @@ The presentation must satisfy the following:
 
 This Shiny app has 5 Tab panels
 
-1.   **Tourist Data** & **Data Visualization**: Provides foreign tourist arrivals period selected and the geographical continent/zone of the tourist.
-2.   **Data Summary**: Statistical summary of the foreign tourist arrivals.
-3.   **Help**: General help on how to use the Shiny app.
-4.   **About**: Information about Tourism in India and references from where the data for this assignment has been sourced.
+1.   **Tourist Data** & **Data Visualization** tabs: Provides foreign tourist arrivals period selected and the geographical continent/zone of the tourist.
+2.   **Data Summary** tab: Statistical summary of the foreign tourist arrivals.
+3.   **Help** tab: General help on how to use the Shiny app.
+4.   **About** tab: Information about Tourism in India and references from where the data for this assignment has been sourced.
 
 ---
 
