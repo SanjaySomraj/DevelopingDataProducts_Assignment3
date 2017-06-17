@@ -1,0 +1,19 @@
+Topic,Description
+Help,This shiny app presents the tourist volume in India.
+Top rankings,"The user may specify the number of top ranking countries for which they wish to view the Tourist Data.
+
+The Rank slider is set to a default value of 2 and can be increased up to 10."
+Start and Ending year,"The user can specify the START YEAR and END YEAR to be considered. 
+
+The YEAR slider has two markers to select the start and end."
+Tourist origination zone,"Each country is categorised based on the Continent and geographic location. 
+
+The user can select one or more Zones. All continents are selected by default. It is essential that the user select at least one continent.
+
+If the user does not select any continent or uncheck all the continents, then the application shall not display any data."
+TAB - Tourist Data,"This tab presents the top countries with highest tourist volume for the Start Year and End Year, and the Zone selected by the user."
+TAB - Data Summary,The basic statistical summary of the tourist data as per user selections is displayed here.
+TAB - Data Visualization,"This tab presents the top countries with highest tourist volume for the Start Year and End Year, and the Zone selected by the user.
+
+This information is displayed as a Bar graph."
+TAB - About,You can find more information about this Shiny app in this Tab.

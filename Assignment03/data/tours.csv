@@ -1,0 +1,733 @@
+Country,Zone,Year,Tourists
+Canada,North America,2004,135884
+U.S.A,North America,2004,526120
+Argentina,Central & South America,2004,2799
+Brazil,Central & South America,2004,7397
+Mexico,Central & South America,2004,4570
+Austria,Western Europe,2004,21093
+Belgium,Western Europe,2004,24007
+Denmark,Western Europe,2004,15805
+Finland,Western Europe,2004,12525
+France,Western Europe,2004,131824
+Germany,Western Europe,2004,116679
+Greece,Western Europe,2004,4468
+Ireland,Western Europe,2004,8996
+Italy,Western Europe,2004,65561
+Netherlands,Western Europe,2004,51211
+Norway,Western Europe,2004,10631
+Portugal,Western Europe,2004,10648
+Spain,Western Europe,2004,42895
+Sweden,Western Europe,2004,26154
+Switzerland,Western Europe,2004,28260
+U.K.,Western Europe,2004,555907
+Czechoslovakia,Eastern Europe,2004,4114
+Poland,Eastern Europe,2004,8445
+Russia,Eastern Europe,2004,
+Ukraine,Eastern Europe,2004,
+Egypt,Africa,2004,3781
+Kenya,Africa,2004,17538
+Mauritius,Africa,2004,19823
+Nigeria,Africa,2004,6659
+South Africa,Africa,2004,32148
+Sudan,Africa,2004,
+Tanzania,Africa,2004,9953
+Bahrain,West Asia,2004,4414
+Iraq,West Asia,2004,
+Israel,West Asia,2004,39083
+Oman,West Asia,2004,14927
+Saudi Arabia,West Asia,2004,11929
+Turkey,West Asia,2004,7008
+U.A.E.,West Asia,2004,22668
+Yemen Arab Rep.,West Asia,2004,8826
+Afghanistan,South Asia,2004,12705
+Bangladesh,South Asia,2004,477446
+Bhutan,South Asia,2004,7054
+Iran,South Asia,2004,24733
+Maldives,South Asia,2004,21099
+Nepal,South Asia,2004,51534
+Pakistan,South Asia,2004,67416
+Sri Lanka,South Asia,2004,128711
+Indonesia,South East Asia,2004,11408
+Malaysia,South East Asia,2004,84390
+Myanmar,South East Asia,2004,4932
+Philippines,South East Asia,2004,10492
+Singapore,South East Asia,2004,60710
+Thailand,South East Asia,2004,33442
+Vietnam,South East Asia,2004,
+China(Main),East Asia,2004,34100
+China(Taiwan),East Asia,2004,18179
+Japan,East Asia,2004,96851
+Korea(South),East Asia,2004,47835
+Australia,Australasia,2004,81608
+New Zealand,Australasia,2004,16762
+Canada,North America,2005,157643
+U.S.A,North America,2005,611165
+Argentina,Central & South America,2005,3313
+Brazil,Central & South America,2005,7005
+Mexico,Central & South America,2005,5398
+Austria,Western Europe,2005,27187
+Belgium,Western Europe,2005,25596
+Denmark,Western Europe,2005,20170
+Finland,Western Europe,2005,16258
+France,Western Europe,2005,152258
+Germany,Western Europe,2005,120243
+Greece,Western Europe,2005,4793
+Ireland,Western Europe,2005,10052
+Italy,Western Europe,2005,67642
+Netherlands,Western Europe,2005,52755
+Norway,Western Europe,2005,11194
+Portugal,Western Europe,2005,11457
+Spain,Western Europe,2005,45247
+Sweden,Western Europe,2005,28799
+Switzerland,Western Europe,2005,34311
+U.K.,Western Europe,2005,651083
+Czechoslovakia,Eastern Europe,2005,4783
+Poland,Eastern Europe,2005,10983
+Russia,Eastern Europe,2005,
+Ukraine,Eastern Europe,2005,
+Egypt,Africa,2005,4048
+Kenya,Africa,2005,19816
+Mauritius,Africa,2005,19760
+Nigeria,Africa,2005,10049
+South Africa,Africa,2005,39229
+Sudan,Africa,2005,
+Tanzania,Africa,2005,11193
+Bahrain,West Asia,2005,4923
+Iraq,West Asia,2005,
+Israel,West Asia,2005,42866
+Oman,West Asia,2005,14979
+Saudi Arabia,West Asia,2005,12444
+Turkey,West Asia,2005,7906
+U.A.E.,West Asia,2005,24560
+Yemen Arab Rep.,West Asia,2005,9423
+Afghanistan,South Asia,2005,14025
+Bangladesh,South Asia,2005,456371
+Bhutan,South Asia,2005,6934
+Iran,South Asia,2005,28691
+Maldives,South Asia,2005,33915
+Nepal,South Asia,2005,77024
+Pakistan,South Asia,2005,88609
+Sri Lanka,South Asia,2005,136400
+Indonesia,South East Asia,2005,12640
+Malaysia,South East Asia,2005,96276
+Myanmar,South East Asia,2005,5652
+Philippines,South East Asia,2005,11422
+Singapore,South East Asia,2005,68666
+Thailand,South East Asia,2005,41978
+Vietnam,South East Asia,2005,
+China(Main),East Asia,2005,44897
+China(Taiwan),East Asia,2005,18894
+Japan,East Asia,2005,103082
+Korea(South),East Asia,2005,49895
+Australia,Australasia,2005,96258
+New Zealand,Australasia,2005,20463
+Canada,North America,2006,176567
+U.S.A,North America,2006,696739
+Argentina,Central & South America,2006,4493
+Brazil,Central & South America,2006,9148
+Mexico,Central & South America,2006,6502
+Austria,Western Europe,2006,28045
+Belgium,Western Europe,2006,29156
+Denmark,Western Europe,2006,21592
+Finland,Western Europe,2006,22860
+France,Western Europe,2006,175345
+Germany,Western Europe,2006,156808
+Greece,Western Europe,2006,5146
+Ireland,Western Europe,2006,14936
+Italy,Western Europe,2006,79978
+Netherlands,Western Europe,2006,58611
+Norway,Western Europe,2006,14216
+Portugal,Western Europe,2006,13108
+Spain,Western Europe,2006,53520
+Sweden,Western Europe,2006,36013
+Switzerland,Western Europe,2006,37446
+U.K.,Western Europe,2006,734240
+Czechoslovakia,Eastern Europe,2006,5760
+Poland,Eastern Europe,2006,14808
+Russia,Eastern Europe,2006,
+Ukraine,Eastern Europe,2006,
+Egypt,Africa,2006,5528
+Kenya,Africa,2006,20313
+Mauritius,Africa,2006,20607
+Nigeria,Africa,2006,9348
+South Africa,Africa,2006,41954
+Sudan,Africa,2006,
+Tanzania,Africa,2006,11954
+Bahrain,West Asia,2006,4793
+Iraq,West Asia,2006,
+Israel,West Asia,2006,42735
+Oman,West Asia,2006,17849
+Saudi Arabia,West Asia,2006,14006
+Turkey,West Asia,2006,10221
+U.A.E.,West Asia,2006,27593
+Yemen Arab Rep.,West Asia,2006,9573
+Afghanistan,South Asia,2006,18799
+Bangladesh,South Asia,2006,484401
+Bhutan,South Asia,2006,8502
+Iran,South Asia,2006,29771
+Maldives,South Asia,2006,37652
+Nepal,South Asia,2006,91552
+Pakistan,South Asia,2006,83426
+Sri Lanka,South Asia,2006,154813
+Indonesia,South East Asia,2006,16990
+Malaysia,South East Asia,2006,107286
+Myanmar,South East Asia,2006,7734
+Philippines,South East Asia,2006,15644
+Singapore,South East Asia,2006,82574
+Thailand,South East Asia,2006,46623
+Vietnam,South East Asia,2006,
+China(Main),East Asia,2006,62330
+China(Taiwan),East Asia,2006,26503
+Japan,East Asia,2006,119292
+Korea(South),East Asia,2006,70407
+Australia,Australasia,2006,109867
+New Zealand,Australasia,2006,23493
+Canada,North America,2007,208214
+U.S.A,North America,2007,799062
+Argentina,Central & South America,2007,4992
+Brazil,Central & South America,2007,10788
+Mexico,Central & South America,2007,8299
+Austria,Western Europe,2007,26692
+Belgium,Western Europe,2007,34207
+Denmark,Western Europe,2007,28347
+Finland,Western Europe,2007,34364
+France,Western Europe,2007,204827
+Germany,Western Europe,2007,184195
+Greece,Western Europe,2007,6455
+Ireland,Western Europe,2007,18376
+Italy,Western Europe,2007,93540
+Netherlands,Western Europe,2007,67429
+Norway,Western Europe,2007,19484
+Portugal,Western Europe,2007,15756
+Spain,Western Europe,2007,63357
+Sweden,Western Europe,2007,47090
+Switzerland,Western Europe,2007,41172
+U.K.,Western Europe,2007,796191
+Czechoslovakia,Eastern Europe,2007,
+Poland,Eastern Europe,2007,20166
+Russia,Eastern Europe,2007,75543
+Ukraine,Eastern Europe,2007,10490
+Egypt,Africa,2007,6328
+Kenya,Africa,2007,25397
+Mauritius,Africa,2007,21522
+Nigeria,Africa,2007,10863
+South Africa,Africa,2007,46042
+Sudan,Africa,2007,
+Tanzania,Africa,2007,13960
+Bahrain,West Asia,2007,6674
+Iraq,West Asia,2007,
+Israel,West Asia,2007,47553
+Oman,West Asia,2007,22284
+Saudi Arabia,West Asia,2007,16352
+Turkey,West Asia,2007,11212
+U.A.E.,West Asia,2007,32750
+Yemen Arab Rep.,West Asia,2007,10898
+Afghanistan,South Asia,2007,23045
+Bangladesh,South Asia,2007,480240
+Bhutan,South Asia,2007,6729
+Iran,South Asia,2007,33223
+Maldives,South Asia,2007,45787
+Nepal,South Asia,2007,83037
+Pakistan,South Asia,2007,106283
+Sri Lanka,South Asia,2007,204084
+Indonesia,South East Asia,2007,17818
+Malaysia,South East Asia,2007,112741
+Myanmar,South East Asia,2007,7977
+Philippines,South East Asia,2007,15567
+Singapore,South East Asia,2007,92908
+Thailand,South East Asia,2007,50037
+Vietnam,South East Asia,2007,
+China(Main),East Asia,2007,88103
+China(Taiwan),East Asia,2007,30024
+Japan,East Asia,2007,145538
+Korea(South),East Asia,2007,84583
+Australia,Australasia,2007,135925
+New Zealand,Australasia,2007,27498
+Canada,North America,2008,222364
+U.S.A,North America,2008,804933
+Argentina,Central & South America,2008,5087
+Brazil,Central & South America,2008,11530
+Mexico,Central & South America,2008,9272
+Austria,Western Europe,2008,25900
+Belgium,Western Europe,2008,36277
+Denmark,Western Europe,2008,34253
+Finland,Western Europe,2008,29223
+France,Western Europe,2008,207802
+Germany,Western Europe,2008,204344
+Greece,Western Europe,2008,6672
+Ireland,Western Europe,2008,18924
+Italy,Western Europe,2008,85766
+Netherlands,Western Europe,2008,71605
+Norway,Western Europe,2008,22369
+Portugal,Western Europe,2008,15415
+Spain,Western Europe,2008,62535
+Sweden,Western Europe,2008,58961
+Switzerland,Western Europe,2008,42107
+U.K.,Western Europe,2008,776530
+Czechoslovakia,Eastern Europe,2008,8549
+Poland,Eastern Europe,2008,23517
+Russia,Eastern Europe,2008,91095
+Ukraine,Eastern Europe,2008,12344
+Egypt,Africa,2008,5326
+Kenya,Africa,2008,14941
+Mauritius,Africa,2008,19713
+Nigeria,Africa,2008,13997
+South Africa,Africa,2008,42337
+Sudan,Africa,2008,3473
+Tanzania,Africa,2008,14872
+Bahrain,West Asia,2008,7224
+Iraq,West Asia,2008,7789
+Israel,West Asia,2008,42720
+Oman,West Asia,2008,34042
+Saudi Arabia,West Asia,2008,16983
+Turkey,West Asia,2008,10934
+U.A.E.,West Asia,2008,63502
+Yemen Arab Rep.,West Asia,2008,11583
+Afghanistan,South Asia,2008,32438
+Bangladesh,South Asia,2008,541884
+Bhutan,South Asia,2008,9952
+Iran,South Asia,2008,30149
+Maldives,South Asia,2008,54956
+Nepal,South Asia,2008,78133
+Pakistan,South Asia,2008,85529
+Sri Lanka,South Asia,2008,218805
+Indonesia,South East Asia,2008,19609
+Malaysia,South East Asia,2008,115794
+Myanmar,South East Asia,2008,12147
+Philippines,South East Asia,2008,17222
+Singapore,South East Asia,2008,97851
+Thailand,South East Asia,2008,58065
+Vietnam,South East Asia,2008,4877
+China(Main),East Asia,2008,98093
+China(Taiwan),East Asia,2008,28939
+Japan,East Asia,2008,145352
+Korea(South),East Asia,2008,79802
+Australia,Australasia,2008,146209
+New Zealand,Australasia,2008,29261
+Canada,North America,2009,224069
+U.S.A,North America,2009,827140
+Argentina,Central & South America,2009,6011
+Brazil,Central & South America,2009,13964
+Mexico,Central & South America,2009,8185
+Austria,Western Europe,2009,27930
+Belgium,Western Europe,2009,34759
+Denmark,Western Europe,2009,30857
+Finland,Western Europe,2009,24874
+France,Western Europe,2009,196462
+Germany,Western Europe,2009,191616
+Greece,Western Europe,2009,6664
+Ireland,Western Europe,2009,19223
+Italy,Western Europe,2009,77873
+Netherlands,Western Europe,2009,64580
+Norway,Western Europe,2009,22092
+Portugal,Western Europe,2009,17184
+Spain,Western Europe,2009,59047
+Sweden,Western Europe,2009,43327
+Switzerland,Western Europe,2009,38290
+U.K.,Western Europe,2009,769251
+Czechoslovakia,Eastern Europe,2009,8328
+Poland,Eastern Europe,2009,19656
+Russia,Eastern Europe,2009,94945
+Ukraine,Eastern Europe,2009,12436
+Egypt,Africa,2009,5869
+Kenya,Africa,2009,22704
+Mauritius,Africa,2009,18866
+Nigeria,Africa,2009,18338
+South Africa,Africa,2009,44308
+Sudan,Africa,2009,4987
+Tanzania,Africa,2009,17020
+Bahrain,West Asia,2009,7901
+Iraq,West Asia,2009,16400
+Israel,West Asia,2009,40581
+Oman,West Asia,2009,32971
+Saudi Arabia,West Asia,2009,15552
+Turkey,West Asia,2009,10282
+U.A.E.,West Asia,2009,47234
+Yemen Arab Rep.,West Asia,2009,12695
+Afghanistan,South Asia,2009,50446
+Bangladesh,South Asia,2009,468899
+Bhutan,South Asia,2009,10328
+Iran,South Asia,2009,34652
+Maldives,South Asia,2009,55159
+Nepal,South Asia,2009,88785
+Pakistan,South Asia,2009,53137
+Sri Lanka,South Asia,2009,239995
+Indonesia,South East Asia,2009,20068
+Malaysia,South East Asia,2009,135343
+Myanmar,South East Asia,2009,12849
+Philippines,South East Asia,2009,21987
+Singapore,South East Asia,2009,95328
+Thailand,South East Asia,2009,67309
+Vietnam,South East Asia,2009,5577
+China(Main),East Asia,2009,100209
+China(Taiwan),East Asia,2009,23464
+Japan,East Asia,2009,124756
+Korea(South),East Asia,2009,70485
+Australia,Australasia,2009,149074
+New Zealand,Australasia,2009,30876
+Canada,North America,2010,242372
+U.S.A,North America,2010,931292
+Argentina,Central & South America,2010,7626
+Brazil,Central & South America,2010,15219
+Mexico,Central & South America,2010,10458
+Austria,Western Europe,2010,32620
+Belgium,Western Europe,2010,37709
+Denmark,Western Europe,2010,35541
+Finland,Western Europe,2010,24089
+France,Western Europe,2010,225232
+Germany,Western Europe,2010,227720
+Greece,Western Europe,2010,7441
+Ireland,Western Europe,2010,20329
+Italy,Western Europe,2010,94100
+Netherlands,Western Europe,2010,70756
+Norway,Western Europe,2010,22229
+Portugal,Western Europe,2010,21038
+Spain,Western Europe,2010,72591
+Sweden,Western Europe,2010,45028
+Switzerland,Western Europe,2010,43134
+U.K.,Western Europe,2010,759494
+Czechoslovakia,Eastern Europe,2010,9918
+Poland,Eastern Europe,2010,25424
+Russia,Eastern Europe,2010,122048
+Ukraine,Eastern Europe,2010,16462
+Egypt,Africa,2010,8017
+Kenya,Africa,2010,29223
+Mauritius,Africa,2010,21672
+Nigeria,Africa,2010,23893
+South Africa,Africa,2010,55688
+Sudan,Africa,2010,7418
+Tanzania,Africa,2010,17645
+Bahrain,West Asia,2010,7766
+Iraq,West Asia,2010,28221
+Israel,West Asia,2010,43456
+Oman,West Asia,2010,35485
+Saudi Arabia,West Asia,2010,21599
+Turkey,West Asia,2010,15483
+U.A.E.,West Asia,2010,45482
+Yemen Arab Rep.,West Asia,2010,14931
+Afghanistan,South Asia,2010,73389
+Bangladesh,South Asia,2010,431962
+Bhutan,South Asia,2010,12048
+Iran,South Asia,2010,49265
+Maldives,South Asia,2010,58152
+Nepal,South Asia,2010,104374
+Pakistan,South Asia,2010,51739
+Sri Lanka,South Asia,2010,266515
+Indonesia,South East Asia,2010,26171
+Malaysia,South East Asia,2010,179077
+Myanmar,South East Asia,2010,14719
+Philippines,South East Asia,2010,24534
+Singapore,South East Asia,2010,107487
+Thailand,South East Asia,2010,76617
+Vietnam,South East Asia,2010,7458
+China(Main),East Asia,2010,119530
+China(Taiwan),East Asia,2010,23915
+Japan,East Asia,2010,168019
+Korea(South),East Asia,2010,95587
+Australia,Australasia,2010,169647
+New Zealand,Australasia,2010,37024
+Canada,North America,2011,259017
+U.S.A,North America,2011,980688
+Argentina,Central & South America,2011,9391
+Brazil,Central & South America,2011,17268
+Mexico,Central & South America,2011,10876
+Austria,Western Europe,2011,36483
+Belgium,Western Europe,2011,40478
+Denmark,Western Europe,2011,34683
+Finland,Western Europe,2011,23730
+France,Western Europe,2011,231423
+Germany,Western Europe,2011,240235
+Greece,Western Europe,2011,7253
+Ireland,Western Europe,2011,22089
+Italy,Western Europe,2011,100889
+Netherlands,Western Europe,2011,75153
+Norway,Western Europe,2011,24578
+Portugal,Western Europe,2011,24061
+Spain,Western Europe,2011,71405
+Sweden,Western Europe,2011,48690
+Switzerland,Western Europe,2011,46332
+U.K.,Western Europe,2011,798249
+Czechoslovakia,Eastern Europe,2011,11256
+Poland,Eastern Europe,2011,28499
+Russia,Eastern Europe,2011,144312
+Ukraine,Eastern Europe,2011,23467
+Egypt,Africa,2011,8791
+Kenya,Africa,2011,30045
+Mauritius,Africa,2011,22091
+Nigeria,Africa,2011,33537
+South Africa,Africa,2011,58430
+Sudan,Africa,2011,8414
+Tanzania,Africa,2011,19470
+Bahrain,West Asia,2011,9587
+Iraq,West Asia,2011,30808
+Israel,West Asia,2011,48089
+Oman,West Asia,2011,40577
+Saudi Arabia,West Asia,2011,26268
+Turkey,West Asia,2011,17359
+U.A.E.,West Asia,2011,66383
+Yemen Arab Rep.,West Asia,2011,14955
+Afghanistan,South Asia,2011,89605
+Bangladesh,South Asia,2011,463543
+Bhutan,South Asia,2011,15489
+Iran,South Asia,2011,43399
+Maldives,South Asia,2011,53999
+Nepal,South Asia,2011,119131
+Pakistan,South Asia,2011,48640
+Sri Lanka,South Asia,2011,305853
+Indonesia,South East Asia,2011,32530
+Malaysia,South East Asia,2011,208196
+Myanmar,South East Asia,2011,25043
+Philippines,South East Asia,2011,31151
+Singapore,South East Asia,2011,119022
+Thailand,South East Asia,2011,92404
+Vietnam,South East Asia,2011,9809
+China(Main),East Asia,2011,142218
+China(Taiwan),East Asia,2011,25916
+Japan,East Asia,2011,193525
+Korea(South),East Asia,2011,108680
+Australia,Australasia,2011,192592
+New Zealand,Australasia,2011,36839
+Canada,North America,2012,256021
+U.S.A,North America,2012,1039947
+Argentina,Central & South America,2012,9831
+Brazil,Central & South America,2012,18440
+Mexico,Central & South America,2012,11254
+Austria,Western Europe,2012,38585
+Belgium,Western Europe,2012,42604
+Denmark,Western Europe,2012,33084
+Finland,Western Europe,2012,22416
+France,Western Europe,2012,240674
+Germany,Western Europe,2012,254783
+Greece,Western Europe,2012,7493
+Ireland,Western Europe,2012,24546
+Italy,Western Europe,2012,98743
+Netherlands,Western Europe,2012,74800
+Norway,Western Europe,2012,23569
+Portugal,Western Europe,2012,24670
+Spain,Western Europe,2012,67044
+Sweden,Western Europe,2012,51058
+Switzerland,Western Europe,2012,48388
+U.K.,Western Europe,2012,788170
+Czechoslovakia,Eastern Europe,2012,11129
+Poland,Eastern Europe,2012,25030
+Russia,Eastern Europe,2012,177526
+Ukraine,Eastern Europe,2012,29033
+Egypt,Africa,2012,10571
+Kenya,Africa,2012,34037
+Mauritius,Africa,2012,25013
+Nigeria,Africa,2012,36762
+South Africa,Africa,2012,50161
+Sudan,Africa,2012,9626
+Tanzania,Africa,2012,21862
+Bahrain,West Asia,2012,10045
+Iraq,West Asia,2012,38826
+Israel,West Asia,2012,47649
+Oman,West Asia,2012,49759
+Saudi Arabia,West Asia,2012,32127
+Turkey,West Asia,2012,22986
+U.A.E.,West Asia,2012,41664
+Yemen Arab Rep.,West Asia,2012,18654
+Afghanistan,South Asia,2012,95231
+Bangladesh,South Asia,2012,487397
+Bhutan,South Asia,2012,15266
+Iran,South Asia,2012,40973
+Maldives,South Asia,2012,50428
+Nepal,South Asia,2012,125375
+Pakistan,South Asia,2012,59846
+Sri Lanka,South Asia,2012,296983
+Indonesia,South East Asia,2012,29559
+Malaysia,South East Asia,2012,195853
+Myanmar,South East Asia,2012,30588
+Philippines,South East Asia,2012,33323
+Singapore,South East Asia,2012,131452
+Thailand,South East Asia,2012,105141
+Vietnam,South East Asia,2012,11332
+China(Main),East Asia,2012,168952
+China(Taiwan),East Asia,2012,31639
+Japan,East Asia,2012,220015
+Korea(South),East Asia,2012,109469
+Australia,Australasia,2012,202105
+New Zealand,Australasia,2012,38917
+Canada,North America,2013,255222
+U.S.A,North America,2013,1085309
+Argentina,Central & South America,2013,10325
+Brazil,Central & South America,2013,18551
+Mexico,Central & South America,2013,13074
+Austria,Western Europe,2013,36465
+Belgium,Western Europe,2013,38091
+Denmark,Western Europe,2013,30842
+Finland,Western Europe,2013,21212
+France,Western Europe,2013,248379
+Germany,Western Europe,2013,252003
+Greece,Western Europe,2013,7983
+Ireland,Western Europe,2013,27174
+Italy,Western Europe,2013,93951
+Netherlands,Western Europe,2013,69547
+Norway,Western Europe,2013,21462
+Portugal,Western Europe,2013,29612
+Spain,Western Europe,2013,62079
+Sweden,Western Europe,2013,48826
+Switzerland,Western Europe,2013,48821
+U.K.,Western Europe,2013,809444
+Czechoslovakia,Eastern Europe,2013,10121
+Poland,Eastern Europe,2013,23785
+Russia,Eastern Europe,2013,259120
+Ukraine,Eastern Europe,2013,31826
+Egypt,Africa,2013,15062
+Kenya,Africa,2013,40484
+Mauritius,Africa,2013,27418
+Nigeria,Africa,2013,34522
+South Africa,Africa,2013,58023
+Sudan,Africa,2013,8778
+Tanzania,Africa,2013,23345
+Bahrain,West Asia,2013,10531
+Iraq,West Asia,2013,41218
+Israel,West Asia,2013,48737
+Oman,West Asia,2013,62252
+Saudi Arabia,West Asia,2013,42892
+Turkey,West Asia,2013,25022
+U.A.E.,West Asia,2013,51513
+Yemen Arab Rep.,West Asia,2013,25019
+Afghanistan,South Asia,2013,111370
+Bangladesh,South Asia,2013,524923
+Bhutan,South Asia,2013,15016
+Iran,South Asia,2013,30527
+Maldives,South Asia,2013,45270
+Nepal,South Asia,2013,113790
+Pakistan,South Asia,2013,111794
+Sri Lanka,South Asia,2013,262345
+Indonesia,South East Asia,2013,33747
+Malaysia,South East Asia,2013,242649
+Myanmar,South East Asia,2013,34916
+Philippines,South East Asia,2013,42224
+Singapore,South East Asia,2013,143025
+Thailand,South East Asia,2013,117136
+Vietnam,South East Asia,2013,12312
+China(Main),East Asia,2013,174712
+China(Taiwan),East Asia,2013,35491
+Japan,East Asia,2013,220283
+Korea(South),East Asia,2013,112619
+Australia,Australasia,2013,218967
+New Zealand,Australasia,2013,40801
+Canada,North America,2014,268485
+U.S.A,North America,2014,1118983
+Argentina,Central & South America,2014,9731
+Brazil,Central & South America,2014,19563
+Mexico,Central & South America,2014,13978
+Austria,Western Europe,2014,34360
+Belgium,Western Europe,2014,37441
+Denmark,Western Europe,2014,26775
+Finland,Western Europe,2014,18765
+France,Western Europe,2014,246101
+Germany,Western Europe,2014,239106
+Greece,Western Europe,2014,8300
+Ireland,Western Europe,2014,28978
+Italy,Western Europe,2014,91589
+Netherlands,Western Europe,2014,67747
+Norway,Western Europe,2014,19690
+Portugal,Western Europe,2014,36156
+Spain,Western Europe,2014,66463
+Sweden,Western Europe,2014,44948
+Switzerland,Western Europe,2014,45773
+U.K.,Western Europe,2014,838860
+Czechoslovakia,Eastern Europe,2014,9878
+Poland,Eastern Europe,2014,25205
+Russia,Eastern Europe,2014,269832
+Ukraine,Eastern Europe,2014,29281
+Egypt,Africa,2014,16715
+Kenya,Africa,2014,46158
+Mauritius,Africa,2014,27945
+Nigeria,Africa,2014,28314
+South Africa,Africa,2014,56246
+Sudan,Africa,2014,11896
+Tanzania,Africa,2014,26284
+Bahrain,West Asia,2014,13136
+Iraq,West Asia,2014,48321
+Israel,West Asia,2014,49312
+Oman,West Asia,2014,88512
+Saudi Arabia,West Asia,2014,55487
+Turkey,West Asia,2014,24294
+U.A.E.,West Asia,2014,59332
+Yemen Arab Rep.,West Asia,2014,34207
+Afghanistan,South Asia,2014,115569
+Bangladesh,South Asia,2014,942562
+Bhutan,South Asia,2014,16001
+Iran,South Asia,2014,31222
+Maldives,South Asia,2014,65052
+Nepal,South Asia,2014,126416
+Pakistan,South Asia,2014,96434
+Sri Lanka,South Asia,2014,301601
+Indonesia,South East Asia,2014,32215
+Malaysia,South East Asia,2014,262026
+Myanmar,South East Asia,2014,54631
+Philippines,South East Asia,2014,43240
+Singapore,South East Asia,2014,150731
+Thailand,South East Asia,2014,121362
+Vietnam,South East Asia,2014,15132
+China(Main),East Asia,2014,181020
+China(Taiwan),East Asia,2014,35857
+Japan,East Asia,2014,219516
+Korea(South),East Asia,2014,106870
+Australia,Australasia,2014,239762
+New Zealand,Australasia,2014,42864
+Canada,North America,2015,281306
+U.S.A,North America,2015,1213624
+Argentina,Central & South America,2015,9351
+Brazil,Central & South America,2015,20610
+Mexico,Central & South America,2015,14049
+Austria,Western Europe,2015,33670
+Belgium,Western Europe,2015,36684
+Denmark,Western Europe,2015,24073
+Finland,Western Europe,2015,18129
+France,Western Europe,2015,230854
+Germany,Western Europe,2015,248314
+Greece,Western Europe,2015,8087
+Ireland,Western Europe,2015,32973
+Italy,Western Europe,2015,88091
+Netherlands,Western Europe,2015,66181
+Norway,Western Europe,2015,19757
+Portugal,Western Europe,2015,44616
+Spain,Western Europe,2015,65694
+Sweden,Western Europe,2015,42626
+Switzerland,Western Europe,2015,46151
+U.K.,Western Europe,2015,867601
+Czechoslovakia,Eastern Europe,2015,11441
+Poland,Eastern Europe,2015,26499
+Russia,Eastern Europe,2015,172419
+Ukraine,Eastern Europe,2015,23098
+Egypt,Africa,2015,19168
+Kenya,Africa,2015,46139
+Mauritius,Africa,2015,32533
+Nigeria,Africa,2015,24292
+South Africa,Africa,2015,51922
+Sudan,Africa,2015,13704
+Tanzania,Africa,2015,25488
+Bahrain,West Asia,2015,14013
+Iraq,West Asia,2015,42660
+Israel,West Asia,2015,50134
+Oman,West Asia,2015,103740
+Saudi Arabia,West Asia,2015,63835
+Turkey,West Asia,2015,25670
+U.A.E.,West Asia,2015,55818
+Yemen Arab Rep.,West Asia,2015,20901
+Afghanistan,South Asia,2015,114406
+Bangladesh,South Asia,2015,1133879
+Bhutan,South Asia,2015,19084
+Iran,South Asia,2015,30774
+Maldives,South Asia,2015,68907
+Nepal,South Asia,2015,154720
+Pakistan,South Asia,2015,124924
+Sri Lanka,South Asia,2015,299513
+Indonesia,South East Asia,2015,34933
+Malaysia,South East Asia,2015,272941
+Myanmar,South East Asia,2015,55341
+Philippines,South East Asia,2015,47912
+Singapore,South East Asia,2015,152238
+Thailand,South East Asia,2015,115860
+Vietnam,South East Asia,2015,15341
+China(Main),East Asia,2015,206322
+China(Taiwan),East Asia,2015,36349
+Japan,East Asia,2015,207415
+Korea(South),East Asia,2015,102993
+Australia,Australasia,2015,263201
+New Zealand,Australasia,2015,45171
